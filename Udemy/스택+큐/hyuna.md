@@ -203,7 +203,7 @@ q.pop(); //undefined
 
 ```
 class Node {
-	constructor(value) {
+  constructor(value) {
     this.value = value;
     this.next = null;
   }
